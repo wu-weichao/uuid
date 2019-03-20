@@ -1,6 +1,6 @@
 <?php
 
-namespace Uuid\Build;
+namespace Uuid;
 
 class Build
 {
