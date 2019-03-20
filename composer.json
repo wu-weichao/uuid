@@ -1,0 +1,10 @@
+{
+    "name": "wuweichao/uuid",
+    "description": "test composer package",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Uuid\\": "src/"
+        }
+    }
+}
